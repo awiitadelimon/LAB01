@@ -1,5 +1,5 @@
 public class Prestamo
 {
-    public Libro Libro { get; set; } = new Libro();
-    public Usuario Usuario { get; set; } = new Usuario();
+    public required Libro Libro { get; set; }
+    public required Usuario Usuario { get; set; }
 }
