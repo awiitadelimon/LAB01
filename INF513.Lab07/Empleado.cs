@@ -1,4 +1,4 @@
-public class Empleado
+﻿public class Empleado
 {
     public int Codigo { get; }
     public string Nombre { get; }
