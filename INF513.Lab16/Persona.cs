@@ -1,0 +1,7 @@
+namespace INF513.Lab16;
+
+public class Persona
+{
+    public string Nombre { get; set; } = string.Empty;
+    public int Edad { get; set; }
+}
