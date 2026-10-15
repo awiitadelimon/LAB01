@@ -1,0 +1,30 @@
+﻿**********************
+Inicio de la transcripción de Windows PowerShell
+Hora de inicio: 20261012124256
+Nombre de usuario: DESKTOP-5QC5V70\yo
+Usuario RunAs: DESKTOP-5QC5V70\yo
+Nombre de la configuración: 
+Máquina: DESKTOP-5QC5V70 (Microsoft Windows NT 10.0.26200.0)
+Aplicación host: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -noexit -command try { . "c:\Users\yo\AppData\Local\Programs\Microsoft VS Code\7debcd0e2a\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
+Id. de proceso: 18132
+PSVersion: 5.1.26100.9444
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9444
+BuildVersion: 10.0.26100.9444
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+La transcripción ha comenzado. El archivo de salida es Evidencia\LAB27-evidencia.txt
+PS C:\Users\yo\LAB01> dotnet test INF513.Lab27.Tests --framework net8.0
+
+PS C:\Users\yo\LAB01> dotnet test INF513.Lab27.Tests --framework net10.0
+
+PS C:\Users\yo\LAB01> git log --oneline -5
+
+PS C:\Users\yo\LAB01> Stop-Transcript
+**********************
+Fin de la transcripción de Windows PowerShell
+Hora de finalización: 20261012124302
+**********************
